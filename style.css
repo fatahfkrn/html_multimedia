@@ -1,0 +1,42 @@
+.fieldset {
+    border: 1px solid black;
+}
+
+.fieldset1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.profile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.baju {
+    width: 200px;
+}
+.name {
+    padding-left: 30px;
+    padding-bottom: 40px;
+}
+#div1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#img1, #img2, #img3, #img4 {
+    width: 100px;
+    height: 100px;
+}
+#div2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
+.video {
+    width: 300px;
+}
+#frame {
+    border: 1px solid black;
+}
